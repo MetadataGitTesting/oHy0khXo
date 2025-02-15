@@ -1,0 +1,50 @@
+name: frank.wintheiser
+description: installation
+version: 0.0.1
+author: 3qqtg6qg.rylxx0ck@izzjsz2p.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: frankwintheiser
+  parentArtefactID: team1739660492348
+  buildSystem: maven
+  author: null
+  createdAt: '2025-02-15 23:02:03'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-02-15 23:02:05'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlOrchestratorPipelines: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-02-15T23:02:05.05181Z'
+  name: plibMaven
+  version: 8.9.0-SNAPSHOT
+  id: '1227972349'
+  createdAt: '2025-02-15T23:02:05.05181Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
